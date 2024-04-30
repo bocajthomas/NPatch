@@ -23,9 +23,9 @@ Root-less implementation uses LSPosed framework to integrate Xposed API by inser
 1. Download and install `*.apk` on your Android (or Hongmeng) device
 2. Use as intended
 
-## Star Number
+## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=HSSkyBoy/NPatch&type=Date)](https://star-history.com/#HSSkyBoy/NPatch&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=bocajthomas/NPatch&type=Date)](https://star-history.com/#bocajthomas/NPatch&Date)
 
 ## Translation Contributing
 
