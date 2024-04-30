@@ -4,24 +4,24 @@
 
 ## APP Introduction
 
-无Root实现使用LSPosed框架，通过在目标APK中插入dex等来集成Xposed API。
+Root-less implementation uses LSPosed framework to integrate Xposed API by inserting dex etc. in the target APK
 
 ## Suppot Versions
 
-- 最低: Android 9
-- 最高: 从理论上来讲，和 [LSPosed](https://github.com/LSPosed/LSPosed#supported-versions)的上限是一致的
+- Minimum: Android 9
+- Highest: Theoretically, it is consistent with the upper limit of [LSPosed](https://github.com/LSPosed/LSPosed#supported-versions)
 
 ## Download
 
-正式版本→请前往[Github releases page](https://github.com/HSSkyBoy/NPatch/releases)  
-CI构建版本→请前往[Github Actions](https://github.com/HSSkyBoy/NPatch/actions)  
-注意: debug版本只能在Github Actions中使用 
+- Official version → Please go to [Github releases page](https://github.com/HSSkyBoy/NPatch/releases)
+- CI build → Please go to [Github Actions](https://github.com/HSSkyBoy/NPatch/releases)
+- NOTE: The debug version is only available in Github Actions
 
 ## User
 
-+ 通过应用程序
-1. 下载并安装`*.apk`在你的安卓(或鸿蒙)设备上
-2. 按照应用的方式使用
++ via app
+1. Download and install `*.apk` on your Android (or Hongmeng) device
+2. Use as intended
 
 ## Star Number
 
