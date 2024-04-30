@@ -4,19 +4,19 @@
 
 
     <uses-permission android:name="com.rosan.dhizuku.permission.API"/>
-    <!--查询所有软件包-->
+    <!--Query all software packages-->
     <uses-permission
         android:name="android.permission.QUERY_ALL_PACKAGES"
         tools:ignore="QueryAllPackagesPermission" />
-    <!--检索已有的账户-->
+    <!--Retrieve existing accounts-->
     <uses-permission android:name="android.permission.GET_ACCOUNTS" />
-    <!--检索正在运行的应用-->
+    <!--Retrieve running applications-->
     <uses-permission android:name="android.permission.GET_TASKS"/>
-    <!--请求安装程序包-->
+    <!--Request an installer package-->
     <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES"/>
-    <!--请求删除程序包-->
+    <!--Request package removal-->
     <uses-permission android:name="android.permission.REQUEST_DELETE_PACKAGES" />
-    <!-- 调用killBackgroundProcesses(String)方法结束后台进程 -->
+    <!-- Call the killBackgroundProcesses(String) method to end the background process -->
     <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES"/>
     
     <application
